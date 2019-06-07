@@ -1,2 +1,3 @@
-# buscaporpalavras
-Busca de arquivos em pastas / subpastas por palavras chaves
+# Busca por Palavras Chaves
+
+O codigo realiza a busca de arquivos em pastas / subpastas utilizando palavras chaves
